@@ -1,1 +1,10 @@
-# planificador-de-viajes
+# Planificador de viajes
+
+## Descripción del problema
+Este problema lo plantea un padre de familia de mediana edad que viaja de manera frecuente junto a su esposa y sus dos hijos. El problema se produce durante los meses previos a sus vacaciones de verano. En este periodo busca construir un itinerario completo y optimizado para aprovechar al máximo el destino elegido, combinando monumentos emblemáticos, gastronomía, comercio local, ocio y eventos temporales. 
+
+Actualmente, para organizar estos viajes se ve obligado a consultar de forma manual y dispersa una gran cantidad de fuentes de información, tales como blogs de viajes, Google Maps, TripAdvisor, webs oficiales de ayuntamientos, Civitatis o GetYourGuide. En cada una de ellas debe contrastar manualmente variables como la calidad, el coste, el idioma de las actividades, los tiempos de visita y la necesidad de reserva previa. Como consecuencia, le lleva una gran cantidad tiempo cada vez que organiza un viaje. La falta de una herramienta centralizada le dificulta calcular la acumulación estimada del coste total para no superar el límite de presupuesto, así como coordinar de manera eficiente la cercanía geográfica entre las actividades para evitar largas colas y desplazamientos innecesarios.
+
+## Referencias relacionadas
+
+Para comprender a fondo la naturaleza de este problema, es fundamental analizar las fuentes de información en las que se mueve el usuario y los tiempos de desplazamiento para la optimización de rutas. Por un lado, plataformas de geolocalización y opinión como Google Maps y TripAdvisor son muy utilizadas por los usuarios para evaluar la satisfacción, el coste promedio, los tiempos de espera y las distancias entre diferentes puntos. Por otro lado, marketplaces de actividades turísticas como Civitatis o GetYourGuide son visitadas por miles de personas cada día para estar al tanto de los diferentes tours y actividades disponibles. Asimismo, las páginas oficiales de turismo y ayuntamientos se podrán usar de referencia para capturar eventos limitados, como ferias o exposiciones temporales. 
