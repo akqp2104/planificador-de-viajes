@@ -21,5 +21,7 @@ Para dar una respuesta sólida al problema, la arquitectura y lógica del proyec
 - **Marketplaces de Actividades (Reserva y Ocio):** Civitatis y GetYourGuide
 - **Agendas Culturales y Eventos Temporales (Exclusividad):** Páginas oficiales de Turismos y Ayuntamientos
 
-![Fotografía de la ficha de cliente](cliente.jpg)
-![Fotografía de la ficha de entrevistador](entrevistador.png)
+## Imágenes relacionadas con las fichas del problema y la configuración de git
+![Ficha de cliente](/media/cliente.jpg)
+![Ficha de entrevistador](/media/entrevistador.png)
+![Configuración del repositorio](/config/configuracion.md)
